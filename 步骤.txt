@@ -1,5 +1,5 @@
 1. yum install redis
-2. redis.conf port确认（密码requirepass 更改
+2. redis.conf port确认（密码requirepass 更改） daemonize no
 3. redis开机启动脚本-》/etc/init.d/下
 4. chmod
 5. 启动
