@@ -1,4 +1,4 @@
-# Redis Linux install
+# Redis Linux[CENTOS] install
 
 1. yum install redis
 2. redis.conf port确认（密码requirepass 更改
